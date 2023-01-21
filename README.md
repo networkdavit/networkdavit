@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-Hi, I'm David Hayrapetyan!
+Hi, I'm Davit Hayrapetyan!
 </h1>
 <hr>
 <pre>
