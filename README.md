@@ -7,7 +7,7 @@ Hi, I'm Davit Hayrapetyan!
  I'm a self taught Full Stack Developer and Cybersecurity Researcher
  I'm currently studying in university in the field of Information Systems and Technology
  Majoring in Development, maintenance and support of the information systems security
- I’m currently working as a Full Stack Angular/Rails developer, as well as doing freelance projects
+ I’m currently working as a Full Stack Angular/Django developer, as well as doing freelance projects
 </pre>
 <hr>
 
